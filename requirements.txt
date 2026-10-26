@@ -1,4 +1,0 @@
-pandas
-numpy
-# optional, only for --target snowflake:
-snowflake-connector-python[pandas]
